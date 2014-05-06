@@ -2,6 +2,8 @@
 
 Bork Syntax **work in progress theme** for Atom.io is a theme inspired by @michigangraham's Glacier for Atom
 
+![image](https://raw.githubusercontent.com/borkweb/bork-syntax-atom/master/screenshot.png)
+
 ## Install
 
 Open Atom Preferences, select Themes > Search for `Bork-Syntax-Theme`,
