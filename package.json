@@ -1,0 +1,20 @@
+{
+  "name": "bork-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Bork Syntax for Atom.io is a port of my vim theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borkweb/bork-syntax-atom"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "bugs": {
+    "url": "https://github.com/borkweb/bork-syntax-atom/issues"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/borkweb/bork-syntax-atom",
+  "_id": "bork-syntax@0.0.1"
+}
