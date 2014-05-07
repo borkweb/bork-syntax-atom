@@ -1,7 +1,7 @@
 {
   "name": "bork-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bork Syntax for Atom.io is a port of my vim theme",
   "repository": {
     "type": "git",
