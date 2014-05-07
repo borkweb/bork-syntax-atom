@@ -7,6 +7,14 @@
 
 .constant {
   color: #ffe792;
+
+  &.numeric {
+    color: #71f89c;
+  }
+
+  &.character.escape {
+    color: #cfbdbd;
+  }
 }
 
 .entity {
@@ -34,7 +42,6 @@
 }
 
 .string {
-  color: #ffe792;
   color: #9f8ba6;
 }
 
@@ -151,8 +158,18 @@
     color: #FFB454;
   }
 
+  .punctuation.definition.variable {
+    color: #cfbdbd;
+  }
+
   .variable {
-    color: #ffe792;
+    font-weight: normal;
+    color: #70BDF1;
+
+    .punctuation.definition.variable,
+    .punctuation {
+      color: #d73c4d;
+    }
   }
 }
 
